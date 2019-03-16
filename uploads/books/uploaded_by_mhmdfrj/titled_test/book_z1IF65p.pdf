@@ -1,0 +1,40 @@
+-----------------------------12498944902075127669871281648
+Content-Disposition: form-data; name="book_pdf"
+
+{}
+-----------------------------12498944902075127669871281648
+Content-Disposition: form-data; name="book_pdf"; filename="book_h0kmnNu.pdf"
+Content-Type: application/pdf
+
+-----------------------------19497904164984554671696006529
+Content-Disposition: form-data; name="book_pdf"
+
+{}
+-----------------------------19497904164984554671696006529
+Content-Disposition: form-data; name="book_pdf"; filename="book_ssfecXU.pdf"
+Content-Type: application/pdf
+
+-----------------------------9636320994179093311787494335
+Content-Disposition: form-data; name="test"
+
+{}
+-----------------------------9636320994179093311787494335
+Content-Disposition: form-data; name="test"; filename="book_nWYSAtc.pdf"
+Content-Type: application/pdf
+
+-----------------------------65939016375708361208997099
+Content-Disposition: form-data; name="test"
+
+{}
+-----------------------------65939016375708361208997099
+Content-Disposition: form-data; name="test"; filename="book_oGkC4fk.pdf"
+Content-Type: application/pdf
+
+{"id":1,"document":"books/uploaded_by_mhmdfrj/titled_test/book_AsxbjpK.pdf","book_cover":"books/cover/n4.jpeg"}
+-----------------------------65939016375708361208997099--
+
+-----------------------------9636320994179093311787494335--
+
+-----------------------------19497904164984554671696006529--
+
+-----------------------------12498944902075127669871281648--
